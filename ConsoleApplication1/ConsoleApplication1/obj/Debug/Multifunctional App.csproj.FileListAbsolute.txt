@@ -1,0 +1,10 @@
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Colorful.Console.dll
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Multifunctional App.csproj.AssemblyReference.cache
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Multifunctional App.csproj.CoreCompileInputs.cache
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Multifunctional App.csproj.CopyComplete
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\VS Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Multifunctional App.csproj.SuggestedBindingRedirects.cache
